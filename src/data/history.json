@@ -1,0 +1,18 @@
+[
+    {
+      "role": "Data Scientist Intern",
+      "organisation": "Process Point Tech Corporation",
+      "startDate": "June, 2024",
+      "endDate": "Present",
+      "experiences": ["Worked on small projects"],
+      "imageSrc": "history/ppt.png"
+    },
+    {
+      "role": "UI/UX Designer Intern",
+      "organisation": "Indeft Technologies",
+      "startDate": "May, 2024",
+      "endDate": "June, 2024",
+      "experiences": ["Worked on Logo making", "Designed the websites"],
+      "imageSrc": "history/indeftts.png"
+    }
+  ]

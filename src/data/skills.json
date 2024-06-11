@@ -1,0 +1,26 @@
+[
+    {
+      "title": "PYTHON",
+      "imageSrc": "skills/python.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "C++",
+      "imageSrc": "skills/cpp.png"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "skills/figma.png"
+    },
+    {
+        "title": "Premiere Pro",
+        "imageSrc": "skills/premiere_pro.png"
+      }
+  ]
